@@ -1,0 +1,142 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Dashed Radar Ring (Radius 33) -->
+    <path
+        android:pathData="M 54,21 A 33,33 0 0,1 66,23.3"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 73.5,27.5 A 33,33 0 0,1 81.7,35.5"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 86,43 A 33,33 0 0,1 87,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 87,54 A 33,33 0 0,1 86,65"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 81.7,72.5 A 33,33 0 0,1 73.5,80.5"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 66,84.7 A 33,33 0 0,1 54,87"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 54,87 A 33,33 0 0,1 42,84.7"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 34.5,80.5 A 33,33 0 0,1 26.3,72.5"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 22,65 A 33,33 0 0,1 21,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 21,54 A 33,33 0 0,1 22,43"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 26.3,35.5 A 33,33 0 0,1 34.5,27.5"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 42,23.3 A 33,33 0 0,1 54,21"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+
+    <!-- Inner Solid Circle (Radius 25) -->
+    <path
+        android:pathData="M 54,29 A 25,25 0 1,1 53.99,29"
+        android:strokeColor="#0077FF"
+        android:strokeWidth="1.5" />
+
+    <!-- Vertical Crosshair Ticks -->
+    <path
+        android:pathData="M 54,16 L 54,25"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 54,83 L 54,92"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+
+    <!-- Horizontal Crosshair Lines -->
+    <path
+        android:pathData="M 14,54 L 26,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 82,54 L 94,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 28,54 L 37,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M 71,54 L 80,54"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round" />
+
+    <!-- Outer Glowing Cyber Eye Contour -->
+    <path
+        android:pathData="M 23,54 C 34,32 74,32 85,54 C 74,76 34,76 23,54 Z"
+        android:strokeColor="#0099FF"
+        android:strokeWidth="3.2"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M 23,54 C 34,32 74,32 85,54 C 74,76 34,76 23,54 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.0"
+        android:strokeLineJoin="round" />
+
+    <!-- Inner Eye Accent Line -->
+    <path
+        android:pathData="M 31,54 C 39,40 69,40 77,54 C 69,68 39,68 31,54 Z"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.2"
+        android:strokeLineJoin="round" />
+
+    <!-- Central Glowing Iris & Pupil -->
+    <!-- Deep Blue Glow Base -->
+    <path
+        android:pathData="M 54,42 A 12,12 0 1,1 53.99,42"
+        android:fillColor="#0055FF" />
+    <!-- Bright Cyan Ring -->
+    <path
+        android:pathData="M 54,46 A 8,8 0 1,1 53.99,46"
+        android:fillColor="#00E5FF" />
+    <!-- Center Pure White Core -->
+    <path
+        android:pathData="M 54,50 A 4,4 0 1,1 53.99,50"
+        android:fillColor="#FFFFFF" />
+
+</vector>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">دیدهبان</string>
+    <string name="app_name_fa">دیده‌بان</string>
+    <string name="dialog_exit_title">خروج از دیده‌بان</string>
+    <string name="dialog_exit_message">آیا می‌خواهید از برنامه دیده‌بان خارج شوید؟</string>
+    <string name="dialog_exit_confirm">خروج</string>
+    <string name="dialog_exit_cancel">انصراف</string>
+    <string name="error_network_title">عدم اتصال به اینترنت</string>
+    <string name="error_network_desc">ارتباط با سرور دیده‌بان برقرار نشد. لطفاً اتصال اینترنت خود را بررسی کنید.</string>
+    <string name="error_retry_btn">تلاش مجدد</string>
+    <string name="loading_text">در حال بارگذاری دیده‌بان...</string>
+</resources>

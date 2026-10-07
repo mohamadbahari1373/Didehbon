@@ -1,0 +1,6 @@
+{
+  "name": "دیدهبان",
+  "description": "دیدهبان - پلتفرم هوشمند رصد بازار و رمزارزها | Didehbon Crypto Market Intelligence App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
